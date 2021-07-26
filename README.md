@@ -10,7 +10,7 @@ Presents a cohesive written summary of how they contributed to each of the roles
 
 ## Team Assessment
 Presents a cohesive written analysis that describes their teamwork, including all of the following: ✓ Their communication protocol, including any challenges, how they were resolved, and what they would do differently next time ✓ Their strengths as a team, including tips and tricks they would want to share with a new cohort kicking off the project
-  - The team worked together as efficiently as possible, again trying to maximize the efficiency of our time together.  We communicated via Slack channel primarily, but also viea email and text as needed.  The team worked well at making collective decisions, then moving ahead without wasting further time.  Our advice for new cohorts would be to try to agree on the scope of a project early in the process and determine early how much time each team member has available to put into the project.
+  - The team worked together as efficiently as possible, again trying to maximize the efficiency of our time together.  We communicated via Slack channel primarily, but also via email and text as needed.  The team worked well at making collective decisions, then moving ahead without wasting further time.  Our advice for new cohorts would be to try to agree on the scope of a project early in the process and determine early how much time each team member has available to put into the project.
 
 ## Summary of Project
 Presents a cohesive, three- to four-sentence summary of the project that could be used on a LinkedIn profile, in an interview or cover letter, or as an elevator pitch, including all of the following: ✓ Topic addressed ✓ Machine module used ✓ Results of the analysis 
