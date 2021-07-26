@@ -1,2 +1,17 @@
 # Assessments
-Self Assessments for Final Project(s)
+Self Assessments of Final Project(s)
+
+## Self-Assessment
+Presents a cohesive written analysis that describes the role(s) they played over the course of the project and their contribution to the project in that role.
+  - While we tried as a team to share a great number of the responsibilities of creating and implementing our project, my primary role was to create, optimize and evaluate the code for our machine learning.  In doing so, I evaluated what we wanted to learn (i.e., predictability of subscriber status, gender and end stations of Citibike users), then chose models (Random Forest Classifier, Logistic Regression, Basic Neural Networks), trained and optimized the models, and evaluated the results.  Further, I wrote the ReadMe text describing the coding working throughout the project.
+
+Presents a cohesive written summary of how they contributed to each of the roles they did not take on via team discussions, peer reviews, or other means. Additionally, the analysis should describe their greatest personal challenge over the course of the project, and how they overcame that challenge. 
+  - For the project roles for which I had a secondary role, I contributed toward their development via team discussion and brainstorming sessions.  I reviewed and offered input to the work done by each team member.  The greatest challenge we faced was dealing with the limited amount of time team members had available to work on the project, which we handled by trying to maximize the efficiency of the time we had together.  Another challenge was agreeing on the scope of the project, as team members had very different opinions about the magnitude of the project we should attempt to achieve.  We had to limit the scope to be manageable for the team in the limited time available.
+
+## Team Assessment
+Presents a cohesive written analysis that describes their teamwork, including all of the following: ✓ Their communication protocol, including any challenges, how they were resolved, and what they would do differently next time ✓ Their strengths as a team, including tips and tricks they would want to share with a new cohort kicking off the project
+  - The team worked together as efficiently as possible, again trying to maximize the efficiency of our time together.  We communicated via Slack channel primarily, but also viea email and text as needed.  The team worked well at making collective decisions, then moving ahead without wasting further time.  Our advice for new cohorts would be to try to agree on the scope of a project early in the process and determine early how much time each team member has available to put into the project.
+
+## Summary of Project
+Presents a cohesive, three- to four-sentence summary of the project that could be used on a LinkedIn profile, in an interview or cover letter, or as an elevator pitch, including all of the following: ✓ Topic addressed ✓ Machine module used ✓ Results of the analysis 
+  - Using data publically available from Citibike, in conjunction with other publically available data, we attempted to determine whether we could predict subscriber status, gender, and end station targets using the available data, and machine learning models.  Specifically, we firstly used Random Forest Classifier, logistic regression and a basic neural network to predict subsriber status with 90 to 95% accuracy.  Next we predicted user gender with 70 to 78% accuracy using the same machine learning models. Finally, using data limited to a specific (busy) start station, we were able to predict the users' end station with 90% accuracy.
